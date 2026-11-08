@@ -1,0 +1,28 @@
+{
+  "engine": "local-pairs-v2",
+  "episodes_read": 1,
+  "skipped": [],
+  "promos": [
+    {
+      "rank": 1,
+      "episode": 1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "00:05.00",
+          "end": "00:24.00"
+        },
+        {
+          "episode": 1,
+          "start": "00:45.00",
+          "end": "00:59.00"
+        }
+      ],
+      "seconds": 33.0,
+      "hook": "\"I watched you disconnect the lamp.\"",
+      "cliffhanger": "\"Why is the door locked from inside?\"",
+      "why": "The opening begins with a revealing exchange; Keeper appears in both exchanges. The second moment cuts before the answer.",
+      "score": 32.33
+    }
+  ]
+}
